@@ -1,0 +1,12 @@
+myClass1: s=строка 1 i=1 d=1.0
+myClass2: s=строка 2 i=2 d=2.0
+myClass3: s=строка 3 i=3 d=3.0
+
+После сериализации и десриализации:
+myClass1=s=null i=3 d=3.0
+myClass2=s=null i=2 d=2.0
+myClass3=s=null i=1 d=1.0
+myClass=null
+Disconnected from the target VM, address: '127.0.0.1:54087', transport: 'socket'
+
+Process finished with exit code 0
